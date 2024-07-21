@@ -5,7 +5,7 @@ Revolutionize the home buying process with Zemply. Organize, compare, and make i
 
 ## Engineering
 
-🌍 We're a remote team based in Vancouver,Canada!
+🌍 We're a remote team based in Vancouver, Canada!
 
 ## Stay tuned!
 
